@@ -25,4 +25,4 @@ Run `grade_predictor_gui.py`. The GUI will prompt for inputs.
 A simple demonstration of spam classification using `GaussianNB`.
 
 ### Usage
-Run `DWM.py` to see predictions for test email vectors.
+Run `Model.py` to see predictions for test email vectors.
